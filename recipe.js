@@ -2,7 +2,7 @@ const searchForm = document.querySelector("form");
 const searchResultDiv = document.querySelector(".search-result");
 const container = document.querySelector(".container");
 let searchQuery = "";
-const APP_ID = "baaa792b" ;
+const APP_ID = "" ;
 const APP_key = "014faaf61d67822f3337b1d2aedcbcaa	";
 // console.log(container)
 searchForm.addEventListener("submit", (e) => {
